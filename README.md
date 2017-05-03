@@ -10,3 +10,5 @@ and 5 minutes thinking about solutions."
 [OddOccurrencesInArray](https://codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) - Find value that occurs in odd number of elements - [solution](./oddOccurrencesInArray.cpp)
 
 [CyclicRotation](https://codility.com/programmers/lessons/2-arrays/cyclic_rotation/) - Rotate an array to the right by a given number of steps - [solution](./cyclicRotation.cpp)
+
+[PermMissingElem](https://codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) - Find the missing element in a given permutation - [solution](./permMissingElem.cpp)
