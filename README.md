@@ -12,3 +12,5 @@ and 5 minutes thinking about solutions."
 [CyclicRotation](https://codility.com/programmers/lessons/2-arrays/cyclic_rotation/) - Rotate an array to the right by a given number of steps - [solution](./cyclicRotation.cpp)
 
 [PermMissingElem](https://codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) - Find the missing element in a given permutation - [solution](./permMissingElem.cpp)
+
+[FrogJmp](https://codility.com/programmers/lessons/3-time_complexity/frog_jmp/) - Count minimal number of jumps from position X to Y - [solution](./frogJmp.cpp)
