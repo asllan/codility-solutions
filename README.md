@@ -13,3 +13,4 @@ and 5 minutes thinking about solutions."
 | [Find the missing element in a given permutation](https://codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | [*permMissingElem.cpp*](./permMissingElem.cpp) |
 | [Count minimal number of jumps from position X to Y](https://codility.com/programmers/lessons/3-time_complexity/frog_jmp/) | [*frogJmp.cpp*](./frogJmp.cpp) |
 | [Minimize the value \|(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])\|](https://codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [*tapeEquilibrium.cpp*](./tapeEquilibrium.cpp) |
+| [Check whether array A is a permutation](https://codility.com/programmers/lessons/4-counting_elements/perm_check/) | [*permCheck.cpp*](./permCheck.cpp) |
