@@ -16,4 +16,4 @@ and 5 minutes thinking about solutions."
 | [Check whether array A is a permutation](https://codility.com/programmers/lessons/4-counting_elements/perm_check/) | [permCheck.cpp](./permCheck.cpp) |
 | [Find the earliest time when a frog can jump to the other side of a river](https://codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | [frogRiverOne.cpp](./frogRiverOne.cpp) |
 | [Find the minimal positive integer not occurring in a given sequence](https://codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [missingInteger.cpp](./missingInteger.cpp) |
-| [(80%) Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum](https://codility.com/programmers/lessons/4-counting_elements/max_counters/) | [maxCounters.cpp](./maxCounters.cpp) |
+| [(tricky) Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum](https://codility.com/programmers/lessons/4-counting_elements/max_counters/) | [maxCounters.cpp](./maxCounters.cpp) |
