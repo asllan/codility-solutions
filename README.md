@@ -18,3 +18,4 @@ and 5 minutes thinking about solutions."
 | [Find the minimal positive integer not occurring in a given sequence](https://codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [missingInteger.cpp](./missingInteger.cpp) |
 | [(tricky) Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum](https://codility.com/programmers/lessons/4-counting_elements/max_counters/) | [maxCounters.cpp](./maxCounters.cpp) |
 | [Compute number of integers divisible by k in range [a..b]](https://codility.com/programmers/lessons/5-prefix_sums/count_div/) | [countDiv.cpp](./countDiv.cpp) |
+| [Count the number of passing cars on the road](https://codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | [passingCars.cpp](./passingCars.cpp) |
